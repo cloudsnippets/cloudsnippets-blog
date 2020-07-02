@@ -34,7 +34,7 @@ There were players on the ***PaaS marketplace*** and individuals and development
 
 [***Kubernetes***](http://kubernetes.io) is an answer to this problem.  Kubernetes is a whole ***cloud operating system*** that can run with any ***PaaS vendor***.  Developers can target Kubernetes during design and development and then run on any vendor's platform.
 
-More players can now innovate and the ecosystem is improved.  People's lives get better!
+More players can now innovate and the ecosystem is improved and more efficient.  People's lives get better!
 
 ### Related Snippets
 
