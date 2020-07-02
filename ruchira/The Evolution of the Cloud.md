@@ -1,6 +1,6 @@
-# Why Cloud?
+# The Evolution of the Cloud
 
-## Background
+## In the Beginning
 
 The early useful computers were big and expensive.  They were built and used by governments, corporations and universities.  They were used for large projects, business and research.
 
