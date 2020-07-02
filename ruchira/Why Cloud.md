@@ -28,7 +28,7 @@ The rented servers and large players had chosen their own operating systems and 
 
 The big players then realized the need to rent not only the hardware and the operating system, but also provide additional services such as databases.  This relieved developers from infrastructure considerations while also allowing them to manage the ***full software development cycle*** on the rented facility.  This was called ***Platform as a Service (PaaS)***.
 
-Containerization ([***Docker***](https://docker.com) et al.) eased the lives of the developers and systems administrators by providing a standardized target to which the developed software could be aimed.  However, the coordination and management, i.e. orchestration, of these individual services were done on the platform was not standardized.
+Containerization ([***Docker***](https://docker.com) et al.) eased the lives of the developers and systems administrators by providing a standardized target to which the developed software could be aimed.  However, the coordination and management, i.e. orchestration, of these individual services done on the platform was not standardized.
 
 There were players on the ***PaaS marketplace*** and individuals and development organizations were often locked-in to a provider owing to the proprietary ways in which the software had to be developed and deployed.  Migration from vendor to vendor as the software needed to scale and price-based selection were inhibited.
 
