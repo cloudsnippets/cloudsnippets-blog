@@ -16,6 +16,8 @@ This opened up the possibility for organizations and individuals to create softw
 
 > The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
+> [_lexico.com_](https://www.lexico.com/definition/cloud_computing)
+
 Earlier, consumers had to buy and install the software on their machines.  Updates has to be installed and also added cost to the equation.  ***SaaS enabled the centralization of software deployment***.  Now software could be updated in one location for all the users.  Even complex technical changes could be made without affecting the users and their data.  Now consumers would pay a subscription fee, usually monthly, and use the software service.
 
 With rentable hardware available from providers large and small, individuals and organizations of all sizes and shapes could compete across the globe on the Internet.  They competed to win customers for software services that were designed and created to appeal to market segments of their choice.  This drove waves of bottom up innovation and the quality of software improved.  ***Software development as a discipline evolved rapidly***.
@@ -28,7 +30,7 @@ The big players then realized the need to rent not only the hardware and the ope
 
 Containerization ([***Docker***](https://docker.com) et al.) eased the lives of the developers and systems administrators by providing a standardized target to which the developed software could be aimed.  However, the coordination and management, i.e. orchestration, of these individual services were done on the platform was not standardized.
 
-There were players on the ***PaaS marketplace*** and the individuals and organizations were often locked-in to a provider owing to the proprietary ways in which the software had to be developed and deployed.  Migration from vendor to vendor as the software needed to scale and price-based selection were inhibited.
+There were players on the ***PaaS marketplace*** and individuals and development organizations were often locked-in to a provider owing to the proprietary ways in which the software had to be developed and deployed.  Migration from vendor to vendor as the software needed to scale and price-based selection were inhibited.
 
 [***Kubernetes***](http://kubernetes.io) is an answer to this problem.  Kubernetes is a whole ***cloud operating system*** that can run with any ***PaaS vendor***.  Developers can target Kubernetes during design and development and then run on any vendor's platform.
 
