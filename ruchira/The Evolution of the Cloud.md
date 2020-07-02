@@ -46,7 +46,7 @@ Containerization ([***Docker***](https://docker.com) et al.) eased the lives of 
 
 ## Kubernetes
 
-There were players on the ***PaaS marketplace*** and individuals and development organizations were often locked-in to a provider owing to the proprietary ways in which the software had to be developed and deployed.  Migration from vendor to vendor as the software needed to scale and price-based selection were inhibited.
+Individuals and development organizations were often locked-in to a provider owing to the proprietary ways in which the software had to be developed and deployed.  Migration from vendor to vendor as the software needed to scale and price-based selection were inhibited.
 
 [***Kubernetes***](http://kubernetes.io) is an answer to this problem.  Kubernetes is a whole ***cloud operating system*** that can run with any ***PaaS vendor***.  Developers can target Kubernetes during design and development and then run on any vendor's platform.
 
