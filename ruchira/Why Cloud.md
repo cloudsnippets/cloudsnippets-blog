@@ -36,6 +36,6 @@ There were players on the ***PaaS marketplace*** and individuals and development
 
 More players can now innovate and the ecosystem is improved.  People's lives get better!
 
-#### Related Snippets
+### Related Snippets
 
 1. [What is Cloud Computing?](https://cloudsnippets.io/2020/06/27/what-is-cloud-computing/)
