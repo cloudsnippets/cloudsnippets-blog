@@ -36,23 +36,17 @@ The software industry was consolidating and server-side software choices became 
 
 ## Software as a Service (SaaS)
 
-PaaS opened up the possibility for organizations and individuals to create software that would run on platforms and serve customers across the Internet.  The organization was essentially working on their software application and the platform was rented.
+PaaS enabled people to focus on applications and delegate the platform concerns.   The customer simply consumed the functionality. Updates and upgrades were done centrally.  Customers paid for the software on a subscription basis — rent.
 
-People could now develop applications that provided functionality across the Internet.  Customers paid for the software on a subscription basis —rent.  This was called Software as a Service (SaaS).
+This was called Software as a Service (SaaS).  This enabled the centralization of software deployment and operating as a software for even individual developers.
 
-SaaS enabled the centralization of software deployment.  The customer simply consumed the functionality.  Updates and upgrades were done centrally.
+## The Frontier
 
-## Cloud Computing
-
-With centralization, you run into the problem of scaling -- the need to serve larger and larger consumer populations and larger and larger workloads.
+With centralization, you run into the problem of scaling — the need to serve larger and larger consumer populations and larger and larger workloads.
 
 The current wave of technologies are addressing scaling, reliability, availability, security and robustness of software services provided using the cloud.
 
 Larger players have done this and now there is democratization of the technology as well as evolution happening at the same time.
-
-## Democratization
-
-***Individuals and companies were now empowered to create useful services on the Internet***.  The better the players in terms of creativity, innovation and entrepreneurship, the better their fortunes in the marketplace.  The catch is that, you need to be able to scale well and scale fast.
 
 Scaling is the hot pursuit of cloud computing.  What if you could create an application and deployed it to the cloud and it would just scale to the need, reliably and effortlessly?
 
