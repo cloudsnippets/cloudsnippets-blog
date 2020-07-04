@@ -52,11 +52,11 @@ Larger players have done this and now there is democratization of the technology
 
 ## Democratization
 
-Innovation in software design, creativity and usefulness of the software were now the key criteria for competition.  If your service was good, you got more customers and you scaled up your hardware and software.
+***Individuals and companies were now empowered to create useful services on the Internet***.  The better the players in terms of creativity, innovation and entrepreneurship, the better their fortunes in the marketplace.  The catch is that, you need to be able to scale well and scale fast.
 
-***Individuals and companies were now empowered to create useful services on the Internet***.  The better the players in terms of creativity, innovation and entrepreneurship, the better their fortunes in the marketplace.
+Scaling is the hot pursuit of cloud computing.  What if you could create an application and deployed it to the cloud and it would just scale to the need, reliably and effortlessly?
 
-Scaling is the hot pursuit of cloud computing.  What if you could create an application and deployed it to the cloud and it would just scale to the need, reliably and at lower cost.  How do we architect our applications as well as the cloud to make this possible?
+How do we architect our applications as well as the cloud to make this possible?
 
 ### Related Snippets
 
