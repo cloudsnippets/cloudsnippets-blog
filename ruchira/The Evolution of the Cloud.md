@@ -36,9 +36,9 @@ The software industry was consolidating and server-side software choices became 
 
 ## Software as a Service (SaaS)
 
-PaaS enabled people to focus on applications and delegate the platform concerns.   The customer simply consumed the functionality. Updates and upgrades were done centrally.  Customers paid for the software on a subscription basis — rent.
+PaaS enabled people to focus on applications and delegate the platform concerns.   Even an individual developer could now operate as a software business with a unique application.
 
-This was called Software as a Service (SaaS).  An individual developer could now operate as a software business.
+The developer — an individual or a company — designed, developed, deployed, maintained and upgraded the app.    The developer paid a subscription fee to the PaaS vendor.  The consumer simply used the cloud application as a user and paid a subscription fee to the developer.  This was called Software as a Service (SaaS).
 
 ## The Frontier
 
